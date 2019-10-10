@@ -1,0 +1,1 @@
+# isme-bangalore-Oct-Nov-2019
