@@ -1,3 +1,7 @@
+course_plan_isme.docx
+lecture_notes/*.key
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
