@@ -15,7 +15,7 @@ Think ML - https://goodboyanush.github.io/
 |-----------------------------|:---------------------------------------------------------------------------:|--------|-------|
 | 11th October, 2019  | Intro to ML, Discovering ML Use Cases & ML in Business     |   [slides](./lecture_notes/Lecture-1.pdf)      |       |
 | 18th October, 2019  | Python- Hands On, Supervised Learning & Regression     |   [slides](./lecture_notes/Lecture-2.pdf)      |   [Code Ex 1](./coding-assignments/1.Linear-Regression.ipynb)   <br/>     [Code Ex 2](./coding-assignments/2.Logistic-Regression.ipynb)     |
-|   | Neural Network - 1, Neural Network -2 (Bias, Variance) & Hands ON     |   slides[]()      |       |
+|   | Neural Network - 1, Neural Network -2 & Hands ON     |   [slides](./lecture_notes/Lecture-3.pdf)      |    [Code Ex 3](./coding-assignments/3.NN-Regression.ipynb)   <br/>     [Code Ex 4](./coding-assignments/4.NN-Classification.ipynb)    |
 |   | Kernel Learning & SVM, Practical Advice for ML projects.     |   slides[]()      |       |
 |   | Boosting, Decision Trees, Random Forest, & xgBoost     |   slides[]()      |       |
 |   | Unsupervised Learning, Clustering & Dimensionality Reduction    |   slides[]()      |       |
