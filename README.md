@@ -14,13 +14,13 @@ Think ML - https://goodboyanush.github.io/
 | Date                        |                                    Topic                                    | Slides | Notes |
 |-----------------------------|:---------------------------------------------------------------------------:|--------|-------|
 | 11th October, 2019  | Intro to ML, Discovering ML Use Cases & ML in Business     |   [slides](./lecture_notes/Lecture-1.pdf)      |       |
-|   | Python- Hands On, Supervised Learning & Regression     |   slides[]()      |       |
-|   | Neural Network - 1, Neural Network -2 (Bias, Variance) & Hands ON     |   slides[]()      |       |
-|   | Kernel Learning & SVM, Practical Advice for ML projects.     |   slides[]()      |       |
-|   | Boosting, Decision Trees, Random Forest, & xgBoost     |   slides[]()      |       |
-|   | Unsupervised Learning, Clustering & Dimensionality Reduction    |   slides[]()      |       |
-|   | Time Series Data Analysis, Imputation & Prediction Systems     |   slides[]()      |       |
-|   | ML Use Cases from Products & Research    |   slides[]()      |       |
+|  18th October, 2019 | Python- Hands On, Supervised Learning & Regression     |   slides[]()      |       |
+|  15th November, 2019 | Neural Network - 1, Neural Network -2 (Bias, Variance) & Hands ON     |   slides[]()      |       |
+|  22nd November, 2019 | Kernel Learning & SVM, Practical Advice for ML projects.     |   slides[]()      |       |
+|  22nd November, 2019 | Boosting, Decision Trees, Random Forest, & xgBoost     |   slides[]()      |       |
+|  27th November, 2019 | Unsupervised Learning, Clustering & Dimensionality Reduction    |   slides[]()      |       |
+|  27th November, 2019 | Time Series Data Analysis, Imputation & Prediction Systems     |   slides[]()      |       |
+|  27th November, 2019 | ML Use Cases from Products & Research    |   slides[]()      |       |
 
 ## Acknowledgement
 
